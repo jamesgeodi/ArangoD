@@ -1,2 +1,1 @@
-# ArangoD
-Professional ArangoDBCrypto arangodbcrypto-engine with ArangoDBCrypto-optimized arangodbcrypto-optimization and enterprise intelligent-automation capabilities
+.
